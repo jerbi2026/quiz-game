@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671399346 source:c:\users\jerbi\documents\1 bi\algo en c\projet jeu de quiz\projet jeu de quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1671400096 source:c:\users\jerbi\documents\1 bi\projet jeu de quiz 1bi\projet jeu de quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1671400096 source:c:\users\jerbi\documents\1 bi\semestre 1\projet jeu de quiz 1bi nourhene ben slimene ahmed jerbi\projet jeu de quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1671400096 source:c:\users\jerbi\documents\1 bi\des projets\projet jeu de quiz 1bi nourhene ben slimene ahmed jerbi\projet jeu de quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
